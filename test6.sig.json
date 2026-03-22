@@ -5,9 +5,9 @@
   "ephemerisHash": "0xf715db56786cd70acda54616e7a10064b5c884ad4acd9090efd687105ab6c14a",
   "path": "test6.oem",
   "mirrorBitmap": 7,
-  "nonce": "1",
+  "nonce": "2",
   "protocolAddress": "0xF41cAe2dB5D93Bd0f4F329Eb984983C3B3B98326",
   "chainId": "1121",
-  "payloadHash": "0x22db70e3c10d3a316e4a5e361246375f12852db0fac0e86f681bdab9cf115e84",
-  "signature": "0xbe42d1920887f5f396f43a3d9ef490e25cb25504a2cc2d7073eaa817e0e664aa08a5e8326cd4b7c200e614e9ee21dffdb836efaa74d54f6bede03a9b1d29df7c1c"
+  "payloadHash": "0xbb2fa1f3089a90cb31b28c87cdb00ca7a23e870013cebdddb815f3f52e7b5a3d",
+  "signature": "0x441c3aa2b8eea0d87ccfc0c8c39cfbf4e744323f2867ee0509fd2ae1d19423e115a2a69fb03064101ff2a3e411dd7a579d9e043c50b8639a1a6fabdf5d8c848e1b"
 }
